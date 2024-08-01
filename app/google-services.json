@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940217229615",
+    "project_id": "ifit-coach-f5c7d",
+    "storage_bucket": "ifit-coach-f5c7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940217229615:android:0b0b62194aec183b6741da",
+        "android_client_info": {
+          "package_name": "com.example.ifitcoach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYNl54w1JmrfCeQwGIzyfxESV10-UQ3IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
